@@ -1,0 +1,34 @@
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.csproj.AssemblyReference.cache
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.AssemblyInfoInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.AssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.csproj.CoreCompileInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\appsettings.json
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\webapi.netcoretask1.exe
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\webapi.netcoretask1.deps.json
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\webapi.netcoretask1.runtimeconfig.json
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\webapi.netcoretask1.runtimeconfig.dev.json
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\webapi.netcoretask1.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\webapi.netcoretask1.pdb
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Data Access Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Domain Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Business Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Data Access Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\bin\Debug\net5.0\Domain Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\scopedcss\bundle\webapi.netcoretask1.styles.css
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\staticwebassets\webapi.netcoretask1.StaticWebAssets.Manifest.cache
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.RazorTargetAssemblyInfo.cache
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.csproj.CopyComplete
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\refint\webapi.netcoretask1.dll
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.pdb
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\webapi.netcoretask1.genruntimeconfig.cache
+C:\Users\Madhunika Lagishetty\source\repos\webapi.netcoretask1\webapi.netcoretask1\obj\Debug\net5.0\ref\webapi.netcoretask1.dll
